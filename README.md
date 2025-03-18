@@ -44,8 +44,7 @@ Venues: Theater capacities, seating arrangements, and pricing.
 Installation Instructions
 Clone the repository:
 
-git clone https://github.com/maryam-ataei/CS542_Book-em.git
-Navigate into the project directory:
+
 
 cd Bookem/movies_display
 Set up the Oracle database and update your configuration files with database credentials.
