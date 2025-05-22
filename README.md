@@ -11,7 +11,7 @@
 - **Seat Booking**: View available seats, book tickets, and manage reservations.
 - **Admin Controls**: Manage events, venues, seating arrangements, and movie listings.
 
-##Technologies Used
+## Technologies Used
 
 - **Frontend**: HTML, CSS
 - **Backend**: Python (Flask)
