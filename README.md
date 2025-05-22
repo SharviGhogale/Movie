@@ -53,13 +53,13 @@ The system organizes the following key data:
 
 1. Clone the repository:
 
-    ```bash
+    ```
     git clone https://github.com/SharviGhogale/Movie.git
     ```
 
 2. Navigate into the project directory:
 
-    ```bash
+    ```
     cd Bookem/movies_display
     ```
 
@@ -67,7 +67,7 @@ The system organizes the following key data:
 
 5. Run the Flask application:
 
-    ```bash
+    ```
     python demo.py
     ```
 
